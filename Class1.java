@@ -15,4 +15,7 @@ public class Class1 {
         // v3.0
         //change implemented
     }
+    private void f4() {
+        // v4.0
+    }
 }
